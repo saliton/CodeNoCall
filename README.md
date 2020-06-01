@@ -1,4 +1,4 @@
-# CodeNoCall ~ソースコードは翻訳しないで~
+# CodeNoCall \~ソースコードは翻訳しないで\~
 Ready for machine translation except source code
 
 [Google翻訳](https://translate.google.com)、便利ですよね。最新の技術文書は英語で配信されることが多いですし、たとえ英語が読めたとしても、やはり母国語のほうが読む速度が速い。Chromeブラウザに[Google翻訳の拡張機能](https://chrome.google.com/webstore/search/translate?_feature=google)を追加すれば、ボタン一つで翻訳されます。しかし、気になることが。文書中のソースコードまで翻訳されて読みづらい。なんとかならないのか。
