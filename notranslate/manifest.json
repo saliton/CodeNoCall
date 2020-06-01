@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "notranslate",
+  "version": "1.0",
+  "description": "Stop translating code text",
+  "content_scripts": [
+    {"matches":[ "http://*/*", "https://*/*", "file:///*/*" ],
+     "all_frames": true,
+     "js":["content.js"]
+    }
+  ]
+}
