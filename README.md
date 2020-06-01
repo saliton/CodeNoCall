@@ -1,5 +1,6 @@
 # CodeNoCall&emsp;-ソースコードは翻訳しないで-
-Ready for machine translation except source code
+## Ready for machine translation except source code
+---
 
 [Google翻訳](https://translate.google.com)、便利ですよね。最新の技術文書は英語で配信されることが多いですし、たとえ英語が読めたとしても、やはり母国語のほうが読む速度が速い。Chromeブラウザに[Google翻訳の拡張機能](https://chrome.google.com/webstore/search/translate?_feature=google)を追加すれば、ボタン一つで翻訳されます。しかし、気になることが。文書中のソースコードまで翻訳されて読みづらい。なんとかならないのか。
 
@@ -241,4 +242,4 @@ setTimeout(addNotranslate, 1000, document.firstElementChild)
 
 ## あとがき
 手前味噌ですが、このChrome拡張を使用し始めたらもう手放せません。機械翻訳された技術文書を読む際にソースコード部分に翻訳が混じるのがこれほどストレスだったとは当初は気がついていませんでした。
-ここ([notranslate](https://chrome.google.com/webstore/search/notranslate))にこの拡張機能を登録しておきました。よろしければご使用ください。
+ここ([CodeNoCall](https://chrome.google.com/webstore/search/codenocall))にこの拡張機能を登録しておきました。よろしければご使用ください。
