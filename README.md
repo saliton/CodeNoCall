@@ -241,4 +241,4 @@ setTimeout(addNotranslate, 1000, document.firstElementChild)
 
 ## あとがき
 手前味噌ですが、このChrome拡張を使用し始めたらもう手放せません。機械翻訳された技術文書を読む際にソースコード部分に翻訳が混じるのがこれほどストレスだったとは当初は気がついていませんでした。
-ここ([CodeNoCall](https://chrome.google.com/webstore/search/codenocall))にこの拡張機能を登録しておきました。よろしければご使用ください。
+ここ([CodeNoCall](https://chrome.google.com/webstore/detail/codenocall/incnchiebjmdeedaeiopjfbdblnafdoe))にこの拡張機能を登録しておきました。よろしければご使用ください。
